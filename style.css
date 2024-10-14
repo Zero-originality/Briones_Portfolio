@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    scroll-padding-top: 20px;
+}
+.Head_content{
+    height: 90px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    padding: 10px 50px;
+    z-index: 1;
+}
+.head_nav{
+    width: 52.5%;
+}
+.header_links{
+    display: flex;
+    list-style-type: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+.header_link{
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: black;
+    padding: 27px 33px 27px 33px;
+}
