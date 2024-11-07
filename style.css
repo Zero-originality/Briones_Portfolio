@@ -8,7 +8,7 @@
 .Head_content{
     height: 90px;
     width: 100%;
-    background-color: white;
+    background-color: black;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -29,6 +29,7 @@
 .header_link{
     text-decoration: none;
     letter-spacing: 1px;
-    color: black;
+    background-color: black;
+    color: white;
     padding: 27px 33px 27px 33px;
 }
