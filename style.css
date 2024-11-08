@@ -33,3 +33,77 @@
     color: white;
     padding: 27px 33px 27px 33px;
 }
+.page_one{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 30px;
+    position: relative;
+}
+.box_one{
+    width: 589.9px;
+    height: 308px;
+    font-size: 75px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    top: 70px;
+    left: 60px;
+}
+.photo{
+    max-width: 500px;
+    max-height: 500px;
+    position: relative;
+    left: 800px;
+    bottom: 200px;
+    border-radius: 5px;
+}
+.oblong_one{
+    width: 480.4px;
+    height: 72.7px;
+    border-radius: 75px;
+    border: 2px solid white;
+    margin-top: 20px;
+    position: relative;
+    top: 200px;
+    left: 60px;
+}
+.inside_text{
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.page_two{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 30px;
+    position: relative;
+}
+.text_one{
+    color: white;
+    font-size: 22.7px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: left;
+    margin-left: 55px;
+    position: relative;
+    bottom: 55px;
+}
+.photo_one{
+    max-width: 412.9px;
+    max-height: 614.4px;
+    position: relative;
+    left: 850px;
+    bottom: 250px;
+    border-radius: 5px;
+}
