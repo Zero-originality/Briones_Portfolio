@@ -97,7 +97,7 @@
     justify-content: left;
     margin-left: 55px;
     position: relative;
-    bottom: 55px;
+    bottom: 75px;
 }
 .photo_one{
     max-width: 412.9px;
@@ -105,5 +105,15 @@
     position: relative;
     left: 850px;
     bottom: 250px;
-    border-radius: 5px;
+    border-radius: 50%;
+}
+.page_three{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 30px;
+    position: relative;
 }
